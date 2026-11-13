@@ -10,12 +10,6 @@ Praktikum **Quality Assurance** — evaluasi kualitas aplikasi **Filmory (Drama 
 | `Putri Hamdani` | `23076048` | Test Designer |
 | `Azfa Jovaren` | `23076060` | Test Executor |
 | `Alya Rafiah` | `23076058` | Defect Analyst |
-=======
-| `[ISI]` | `[ISI]` | QA Lead |
-| `[ISI]` | `[ISI]` | Test Designer |
-| `[ISI]` | `[ISI]` | Test Executor |
-| `[ISI]` | `[ISI]` | Defect Analyst |
->>>>>>> 6fc8cf50c1ef912cd3845199d1d2b51c0df24cb8
 
 Mata kuliah: `Quality Assurance` — Dosen: `Iip Permana, S.T., M.T.` — Program Studi Pendidikan Teknik Informatika, Universitas Negeri Padang.
 
