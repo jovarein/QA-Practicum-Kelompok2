@@ -5,7 +5,6 @@ Praktikum **Quality Assurance** — evaluasi kualitas aplikasi **Filmory (Drama 
 ## 1. Identitas kelompok
 | Nama | NIM | Peran |
 |---|---|---|
-<<<<<<< HEAD
 | `Silvia Hijri` | `23076053` | QA Lead |
 | `Putri Hamdani` | `23076048` | Test Designer |
 | `Azfa Jovaren` | `23076060` | Test Executor |
