@@ -19,8 +19,8 @@ Mata kuliah: `Quality Assurance` — Dosen: `Iip Permana, S.T., M.T.` — Progra
 | Repositori | https://github.com/jovarein/Drama-Review-MobileApp |
 | Versi | `1.0.0+1`, commit `84190e0` |
 | Teknologi | Flutter (Dart ^3.9.2), Riverpod, Firebase (Auth, Firestore, Storage, FCM), TMDB API |
-| Platform uji | Android `[ISI model & versi]` |
-| Sumber kode | Tidak disalin ke repo ini (aplikasi pihak ketiga); lihat tautan di atas |
+| Platform uji | Android `Redmi 14C` |
+| Sumber kode | Tugas Kuliah Salah satu kontributor; lihat tautan di atas |
 
 ## 3. Tujuan
 Menilai kualitas Filmory secara berbasis-bukti: dari analisis kebutuhan & risiko, perancangan 21 test case dengan teknik black-box (EP, BVA, Decision Table, State Transition), eksekusi, pelaporan defect + RCA, hingga rekomendasi keputusan kualitas (Go/Conditional Go/No-Go).
