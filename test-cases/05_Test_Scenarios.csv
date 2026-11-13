@@ -1,0 +1,4 @@
+﻿Scenario_ID,Nama_Skenario,Requirement_Tercakup,Tujuan,Jumlah_TC,TC_IDs
+SC-01,"Autentikasi, registrasi, sesi & logout","REQ-01, REQ-02, REQ-03",Pengguna dapat masuk/daftar dan keluar secara aman; validasi input & batas benar; transisi state sesi tepat.,13,"TC-01, TC-02, TC-03, TC-04, TC-05, TC-06, TC-07, TC-08, TC-09, TC-10, TC-11, TC-12, TC-13"
+SC-02,"Review, like & hapus review","REQ-05, REQ-06, REQ-09","Validasi review, toggle like, dan penghapusan review milik sendiri.",4,"TC-14, TC-15, TC-16, TC-17"
+SC-03,"Watchlist, pencarian & reset password","REQ-04, REQ-07, REQ-08","Toggle watchlist, pencarian dengan karakter khusus, dan reset password saat offline.",4,"TC-18, TC-19, TC-20, TC-21"
