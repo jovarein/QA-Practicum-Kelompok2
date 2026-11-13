@@ -1,0 +1,10 @@
+﻿Req_ID,Nama_Requirement,Prioritas_Req,Risk_ID_Terkait,Test_Case_IDs,Jumlah_TC,Teknik_Digunakan,Defect_ID,Status_Agregat
+REQ-01,Registrasi akun,Must,R-04,"TC-07, TC-08, TC-09, TC-10",4,BVA; EP; Negatif; State Transition,-,PASS
+REQ-02,Login email/password,Must,R-04,"TC-01, TC-02, TC-03, TC-04, TC-05, TC-06",6,Decision Table R1; Decision Table R2; Decision Table R3; Decision Table R4; Decision Table R5; EP; Negatif,-,PASS
+REQ-03,Sesi & logout,Must,R-04,"TC-11, TC-12, TC-13",3,State Transition,-,PASS
+REQ-04,Pencarian drama,Must,R-05,TC-20,1,EP; Negatif,D-03,FAIL
+REQ-05,Tulis review,Must,R-01,TC-14,1,EP; Negatif,-,PASS
+REQ-06,Like review,Should,R-06,"TC-15, TC-16",2,State Transition,-,PASS
+REQ-07,Watchlist,Should,R-06,"TC-18, TC-19",2,State Transition,-,PASS
+REQ-08,Reset password,Must,R-03,TC-21,1,Error guessing; Negatif,D-02,FAIL
+REQ-09,Hapus review sendiri,Should,R-02,TC-17,1,EP; Fungsional,D-01,FAIL
